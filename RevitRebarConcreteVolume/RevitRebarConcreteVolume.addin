@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">    
+    <Name>RevitRebarConcreteVolume</Name>
+    <Assembly>
+      RevitRebarConcreteVolume.dll
+    </Assembly>
+    <ClientId>0ef76700-98dd-4fd5-9660-498a43f4d307</ClientId>
+    <FullClassName>RevitRebarConcreteVolume.App</FullClassName>
+    <VendorId>BIM-STARTER</VendorId>
+    <VendorDescription>http://bim-starter.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
